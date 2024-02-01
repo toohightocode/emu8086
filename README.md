@@ -1,4 +1,4 @@
-# emu8086-crack
+# emu8086 installation
 To activate the software:
 1. Run **emu8086.exe**
 2. click on **Help** on the top right corner
